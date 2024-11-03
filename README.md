@@ -17,7 +17,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Software Engineer** w
 - **Frontend:** JavaScript, HTML, CSS, Bootstrap, React, SvelteKit
 - **Backend:** Node.js, Express.js, PHP, Flask
 - **Databases:** MongoDB, MySQL, Oracle
-- **Mobile Development:** Flutter, Dart
+- **Mobile Development:** Flutter, Dart, React Native
 - **Other:** Python, Java, OpenCV, TensorFlow, Google Sheets Automation
 - **Tools & Platforms:** Git/GitHub, VS Code, Jira, Azure, Linux, Nginx, Android Studio
 
