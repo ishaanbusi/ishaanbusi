@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **Full Stack Developer** and **Software Engineer** w
 ---
 
 ### 💼 About Me
-- 📍 Based in **Pune, Maharashtra, India**
+- 📍 Based in **Pune, Maharashtra, India(But Open to Relocate)**
 - 🎓 Bachelor’s Degree in Computer Science & Engineering from **Kalinga University**
 - 👨‍💻 Currently a **Software Developer** at **Bitance Labs** focusing on MERN Stack, Python, API Integration, and Blockchain
 - 🌐 Actively seeking opportunities to work on **Web, Apps, and CRM/ERP** solutions
